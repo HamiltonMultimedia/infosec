@@ -7,7 +7,7 @@ def main():
 #   Insert the path to the source folder here.
     path = "~/source/folder/for/the/files/"
     for filename in os.listdir(path):
-        destination = "img" + str(i) + ".jpg"
+        destination = "image" + str(i) + ".jpg"
         source = path + filename
         destination = path + destination
         os.rename(source, destination)
