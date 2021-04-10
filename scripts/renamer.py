@@ -2,6 +2,8 @@
 
 import os
 
+# This script renames all files in target folder
+
 def main():
     i = 0
 #   Insert the path to the source folder here.
