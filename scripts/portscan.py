@@ -49,5 +49,6 @@ t2 = datetime.now()
 # Calculating the difference in time to know how long the scan took
 total = t2 - t1
 
+# TODO: Update print statement to use fprint to say ...completed in {total} seconds.
 # Printing the information on the screen
 print('Scanning Completed in: ', total)
