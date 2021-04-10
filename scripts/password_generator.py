@@ -2,6 +2,7 @@
 
 import random
 
+# The script uses these characters to generate your password(s)
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*().,?'
 
 number = input('Amount of passwords of generate: ')
