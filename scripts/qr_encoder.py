@@ -4,7 +4,7 @@
 
 """
  Remember to pip install qrcode before running this.
- Uncomment from line 3 on, after installing qrcode.
+ Uncomment from line 3 down, after installing qrcode.
 """
 
 data = input('Enter your message to be encoded here: ')
