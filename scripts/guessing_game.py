@@ -29,7 +29,7 @@ def computer_guess(x):
         elif feedback == 'l':
             low = guess + 1
 
-    print(f'Yay! the computer guessed your number, {guess}, correctly!')
+    print(f'This time the computer guessed your number, {guess}, correctly!')
 
 
 guess(10)
